@@ -6,13 +6,90 @@ uid: abdd52da-9b03-74b5-fbdd-4ce68e2405f5
 
 The following animations illustrate diffraction in various scenarios.
 
-| EXAMPLES | MOVIES |
-| --- | --- |
-| Interference of two plane waves | ([AVI - 22MB](/ans7870/2/2.71/s09/related/pw_interference.avi)) |
-| Fresnel diffraction from a large circular aperture | ([AVI - 43MB](/ans7870/2/2.71/s09/related/fresnel_circ_large.avi)) |
-| Fresnel diffraction from a small circular aperture | ([AVI - 43MB](/ans7870/2/2.71/s09/related/fresnel_circ_small.avi)) |
-| Fresnel diffraction from a large rectangular aperture | ([AVI - 43MB](/ans7870/2/2.71/s09/related/fresnel_rect_large.avi)) |
-| Fresnel diffraction from a small rectangular aperture | ([AVI - 43MB](/ans7870/2/2.71/s09/related/fresnel_rect_small.avi)) |
-| Diffraction from a sinusoidal amplitude grating | ([AVI - 32MB](/ans7870/2/2.71/s09/related/grating_amp_02.avi)) |
-| Diffraction from a sinusoidal phase grating | ([AVI - 32MB](/ans7870/2/2.71/s09/related/grating_pha_02.avi)) |
-| Talbot effect from tilted sinusoidal grating | ([AVI - 43MB](/ans7870/2/2.71/s09/related/grating_amptilt_05.avi))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+EXAMPLES
+{{< thclose >}}
+{{< thopen >}}
+MOVIES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Interference of two plane waves
+{{< tdclose >}}
+{{< tdopen >}}
+([AVI - 22MB](/ans7870/2/2.71/s09/related/pw_interference.avi))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Fresnel diffraction from a large circular aperture
+{{< tdclose >}}
+{{< tdopen >}}
+([AVI - 43MB](/ans7870/2/2.71/s09/related/fresnel_circ_large.avi))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Fresnel diffraction from a small circular aperture
+{{< tdclose >}}
+{{< tdopen >}}
+([AVI - 43MB](/ans7870/2/2.71/s09/related/fresnel_circ_small.avi))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Fresnel diffraction from a large rectangular aperture
+{{< tdclose >}}
+{{< tdopen >}}
+([AVI - 43MB](/ans7870/2/2.71/s09/related/fresnel_rect_large.avi))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Fresnel diffraction from a small rectangular aperture
+{{< tdclose >}}
+{{< tdopen >}}
+([AVI - 43MB](/ans7870/2/2.71/s09/related/fresnel_rect_small.avi))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Diffraction from a sinusoidal amplitude grating
+{{< tdclose >}}
+{{< tdopen >}}
+([AVI - 32MB](/ans7870/2/2.71/s09/related/grating_amp_02.avi))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Diffraction from a sinusoidal phase grating
+{{< tdclose >}}
+{{< tdopen >}}
+([AVI - 32MB](/ans7870/2/2.71/s09/related/grating_pha_02.avi))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Talbot effect from tilted sinusoidal grating
+{{< tdclose >}}
+{{< tdopen >}}
+([AVI - 43MB](/ans7870/2/2.71/s09/related/grating_amptilt_05.avi))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

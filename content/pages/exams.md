@@ -4,10 +4,117 @@ title: Exams
 uid: 64e77695-cb47-2863-d60a-b432b2729d60
 ---
 
-| Exams | Practice | Undergraduate (2.71) | Graduate (2.710) |
-| --- | --- | --- | --- |
-| Problems | Solutions | Problems | Solutions | Problems | Solutions |
-| --- | --- | --- | --- | --- | --- |
-| Quiz 1 | ([PDF]({{< baseurl >}}/resources/mit2_71s09_practice1)) | ([PDF]({{< baseurl >}}/resources/mit2_71s09_practice1_sol)) | ([PDF]({{< baseurl >}}/resources/mit2_71s09_uquiz1)) | ([PDF]({{< baseurl >}}/resources/mit2_71s09_uquiz1_sol)) | ([PDF]({{< baseurl >}}/resources/mit2_71s09_gquiz1)) | ([PDF]({{< baseurl >}}/resources/mit2_71s09_gquiz1_sol)) |
-| Quiz 2 | ([PDF]({{< baseurl >}}/resources/mit2_71s09_practice2)) | ([PDF]({{< baseurl >}}/resources/mit2_71s09_practice2_sol)) | ([PDF]({{< baseurl >}}/resources/mit2_71s09_uquiz2)) | ([PDF]({{< baseurl >}}/resources/mit2_71s09_uquiz2_sol)) | ([PDF]({{< baseurl >}}/resources/mit2_71s09_gquiz2)) | ([PDF]({{< baseurl >}}/resources/mit2_71s09_gquiz2_sol)) |
-| Final | ([PDF]({{< baseurl >}}/resources/mit2_71s09_practice3)) | ([PDF - 1.5MB]({{< baseurl >}}/resources/mit2_71s09_practice3_sol)) | ([PDF]({{< baseurl >}}/resources/mit2_71s09_ufinal)) | ([PDF]({{< baseurl >}}/resources/mit2_71s09_ufinal_sol)) | ([PDF]({{< baseurl >}}/resources/mit2_71s09_gfinal)) | ([PDF]({{< baseurl >}}/resources/mit2_71s09_gfinal_sol))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Exams
+{{< thclose >}}
+{{< thopen >}}
+Practice
+{{< thclose >}}
+{{< thopen >}}
+Undergraduate (2.71)
+{{< thclose >}}
+{{< thopen >}}
+Graduate (2.710)
+{{< thclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< thopen >}}
+Problems
+{{< thclose >}}
+{{< thopen >}}
+Solutions
+{{< thclose >}}
+{{< thopen >}}
+Problems
+{{< thclose >}}
+{{< thopen >}}
+Solutions
+{{< thclose >}}
+{{< thopen >}}
+Problems
+{{< thclose >}}
+{{< thopen >}}
+Solutions
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz 1
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit2_71s09_practice1))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit2_71s09_practice1_sol))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit2_71s09_uquiz1))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit2_71s09_uquiz1_sol))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit2_71s09_gquiz1))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit2_71s09_gquiz1_sol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz 2
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit2_71s09_practice2))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit2_71s09_practice2_sol))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit2_71s09_uquiz2))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit2_71s09_uquiz2_sol))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit2_71s09_gquiz2))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit2_71s09_gquiz2_sol))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit2_71s09_practice3))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF - 1.5MB]({{< baseurl >}}/resources/mit2_71s09_practice3_sol))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit2_71s09_ufinal))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit2_71s09_ufinal_sol))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit2_71s09_gfinal))
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/mit2_71s09_gfinal_sol))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
