@@ -171,13 +171,13 @@ Homework 8
 ([PDF]({{< baseurl >}}/resources/mit2_71s09_ups8))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit2_71s09_usol8))
+([PDF]({{< baseurl >}}/resources/mit2_71s09_usol8))
 {{< tdclose >}}
 {{< tdopen >}}
 ([PDF]({{< baseurl >}}/resources/mit2_71s09_gps8))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mit2_71s09_gsol8))
+([PDF]({{< baseurl >}}/resources/mit2_71s09_gsol8))
 {{< tdclose >}}
 
 {{< trclose >}}
