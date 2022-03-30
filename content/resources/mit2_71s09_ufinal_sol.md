@@ -4,6 +4,7 @@ description: Solutions to a final exam on optics. This version of the exam is in
   for undergraduate students of the course.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-71-optics-spring-2009/facb239c192a437706a6e52a719ad8b0_MIT2_71S09_ufinal_sol.pdf
 file_type: application/pdf
+parent_uid: 64e77695-cb47-2863-d60a-b432b2729d60
 resourcetype: Document
 title: Final Exam Solutions, Undergraduate
 uid: facb239c-192a-4377-06a6-e52a719ad8b0

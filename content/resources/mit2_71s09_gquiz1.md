@@ -5,6 +5,7 @@ description: Quiz on optics, eye correction, and aperture and field stops in a t
   of the course.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/2-71-optics-spring-2009/707c970121c568535415e7906f6bf31c_MIT2_71S09_gquiz1.pdf
 file_type: application/pdf
+parent_uid: 64e77695-cb47-2863-d60a-b432b2729d60
 resourcetype: Document
 title: Quiz 1, Graduate
 uid: 707c9701-21c5-6853-5415-e7906f6bf31c
